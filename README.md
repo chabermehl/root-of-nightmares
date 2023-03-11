@@ -77,6 +77,10 @@ First boss encounter!
   * The goal is to move all light planets to the light side and dark planets to the dark side.
 * The planets can be numbered 1-6 and are in the same position on both sides of the room.
 
+### 3rd Encounter - Map
+
+![3rd-encounter-map](/assets/third-encounter.png)
+
 ### 3rd Encounter - Flow
 
 * Encounter starts.
