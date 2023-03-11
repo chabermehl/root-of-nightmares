@@ -9,24 +9,56 @@
 
 ## 1st Encounter
 
+This is a basic add clear encounter designed to warm you up to the raid mechanics.
+
 ### 1st Encounter - Setup
 
-* 2 people connecting nodes.
-  * Shoot initial node to get buff.
-  * Once the buff is acquired it will point towards the node to connect.
-  * One person should go, make a connection while the second person waits. Once the first connection is made the second person can activate the buff and find the next node.
-    * This is important so that the node chaining can be sped up since the node connectors have to go all the way back to the original buff node.
-  * Do not reacquire the buff until the person that currently has it has made their connection otherwise they will lose their buff.     
-* Everyone else does add clear while looking for psions.
-  * Kill 2 psions to spawn tormentor, killing tormentor extends wipe timer. If no wipe timer up, wait to kill if possible to get maximum timer.
+* 1 or 2 people connecting nodes.
+* 4 or 5 people killing adds/psions/tormentors.
 * Has anti-barrier champs.
 
 ### 1st Encounter - Flow
 
-* After enough nodes are connected the encounter will "move forward" in the area.
-  * This happens after 5(?) node connections.
-  * Psions will begin spawning in other spots, the initial node will move up.
-  * After completeing 3(?) base nodes, the encounter is over.
+The flow of this encounter primarily revolves around connecting nodes and etending the timer to do so.
+
+#### 1st Encounter - Flow - Connecting Nodes
+
+* The connection setters start by getting the buff and beginning to connect the orbs in order.
+  * The orbs point to their next location.
+  * The correct plate will have a smaller orb on it which you need to shoot while you have the `Field of Light` buff. 
+  * The order is not set but generally progresses from the right to the left side of the arena.
+* Once the buff is acquired it will point towards the next node to connect.
+  * You always have to go back to the intial node in a sequence to reacquire `Field of Light`.
+* One person should go, make a connection while the second person waits. Once the first connection is made the second person can activate the buff and find the next node.
+  * This is important so that the node chaining can be sped up since the node connectors have to go all the way back to the original buff node.
+  * This could be skipped entirely and 1 person could do all of this, but its slower.
+  * Do not reacquire the buff until the person that currently has it has made their connection otherwise they will lose their buff.
+  * If 2 people have the buff and a connection is made, both will lose the ability to make further connections.  
+* After enough nodes are connected the encounter will "move forward" in the arena.
+  * This happens after 5 (including the initial) node connections.
+* After completeing 4 total connection sequences, the encounter is over.
+
+#### 1st Encounter - Flow - Psions
+
+The goal of this team is to continually extend the `Sweeping Terror` timer.
+
+* In each area, a set of 2 Psions will spawn.
+* Kill both Psions.
+* Once both Psions have been killed a Tormentor will spawn.
+  * The will spawn on either the left or right side of the arena.
+  * Their spawn point is generaly opposite the Psion spawns (e.g. one of Psions is on the right side, the Tormentor will mostly likely spawn on the left).
+* Kill the Tormentor.
+* The `Sweeping Terror` timer will extend.
+* In between Psion spawns, kill adds.
+  * This includes anti-barrier champs.
+* Repeat until finished.
+
+### 1st Encounter - Loadout
+
+* Add clear.
+  * Machine guns are currently very strong.
+* Suspending and freezing large groups of adds is helpful.
+* Death is the best CC.
 
 ## 2nd Encounter
 
@@ -43,6 +75,10 @@ This is another add clear encounter that revolves around connecting nodes.
 
 ### 2nd Encounter - Flow
 
+The flow of this encounter is very similar to the 1st, just in a different setting.
+
+#### 2nd Encounter - Flow - Connecting Nodes
+
 * Connecting nodes
   * One side starts with a dark node, the other light.
   * Everyone on each side gets initial buff.
@@ -53,9 +89,19 @@ This is another add clear encounter that revolves around connecting nodes.
   * Repeat this until all the light and dark nodes are connected across the chasm.
   * Once all nodes are connected, the last boop cannon will get its button which will launch you to the next floor.
   * Repeat the above on the next floor until all 3 floors are cleared.
+
+#### 2nd Encounter - Flow - Add Clear
+
 * Add clear
   * Clear adds :)
   * The add clear person should always be reacquiring the light or dark buff on their side everytime a connecter does because there are light/dark shielded enemies that can only be broken while they have the buff.
+
+### 2nd Encounter - Loadout
+
+* Add clear.
+  * Machine guns are currently very strong.
+* Suspending and freezing large groups of adds is helpful.
+* Death is the best CC.
 
 ### 2nd Encounter - Tips
 
@@ -154,6 +200,12 @@ First boss encounter!
     * Grenade Launchers (probably not good).
     * Rockets Only (Ghorn, TTF, Legendaries). 
     * Fusion Grenade spam.
+
+### 3rd Encounter - Tips
+
+* The first color of the boss will always be the one of the majority.
+  * 2 Dark plates -> Boss will be Dark.
+  * 2 Light plates -> Boss will be Light.
 
 ## 4th Encounter
 
