@@ -278,7 +278,7 @@ This mechanic makes it specifically possible to survive Nezerac's wipe mechanic.
 * Guns:
   * Divinity +
     * Thunderlord
-    * Izzy + Rocket (has big crit spot and doesn't move so it may not be *strictly necessary* to have a div)
+    * Izzy + Rocket
   * Untested/not seen in action: 
     * Grenade Launchers (probably not good).
     * Rockets Only (Ghorn + TTF + Legendaries). 
